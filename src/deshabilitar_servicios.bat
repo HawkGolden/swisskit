@@ -1,0 +1,3 @@
+@echo off
+services.msc
+
