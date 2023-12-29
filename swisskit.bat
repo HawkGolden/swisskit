@@ -102,5 +102,3 @@ if "%option%"=="1" (
     pause
     goto menu
 )
-
-powercfg /energy
